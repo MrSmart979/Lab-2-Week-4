@@ -1,0 +1,5 @@
+- Copy and paste the contents of the lab-sql.sql file into Work bench and execute it.
+- Follow the instructions in each file in the following order
+  - edit.php
+  - update.php
+  - delete.php
